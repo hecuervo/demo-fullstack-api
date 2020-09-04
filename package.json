@@ -23,7 +23,7 @@
     "pg": "^6.4.2",
     "pg-hstore": "^2.3.2",
     "pug": "^2.0.4",
-    "sequelize": "^4.41.2",
+    "sequelize": "^5.15.1",
     "sequelize-transforms": "^2.0.0",
     "simple-excel-to-json": "^2.2.0"
   },
