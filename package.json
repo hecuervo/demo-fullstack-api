@@ -22,7 +22,7 @@
     "morgan": "~1.9.0",
     "pg": "^6.4.2",
     "pg-hstore": "^2.3.2",
-    "pug": "^2.0.4",
+    "pug": "^3.0.1",
     "sequelize": "^4.41.2",
     "sequelize-transforms": "^2.0.0",
     "simple-excel-to-json": "^2.2.0"
